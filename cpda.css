@@ -1,0 +1,17 @@
+
+.hidden-xs,
+ .adsbygoogle,
+ .chapter-direction,
+ .chap-text.center {
+ display: none !important
+ }
+﻿.forumbl, .mausacan{
+ -moz-user-select: none;
+ -khtml-user-select: none;
+ -webkit-user-select: none;
+ -user-select: none; 
+ -o-user-select:none;
+ -ms-user-select:none;
+ user-select:none;
+}
+ 
